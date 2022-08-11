@@ -1,0 +1,8 @@
+{
+    "name": "pmahommeDark",
+    "version": "5.0",
+    "description": "Default phpMyAdmin theme but dark by CalvinYrd (https://github.com/CalvinYrd) made for phpMyAdmin 5.2",
+    "author": "CalvinYrd (https://github.com/CalvinYrd)",
+    "url": "https://github.com/CalvinYrd/pmahommeDark5.2",
+    "supports": ["5.0", "5.1", "5.2"]
+}
